@@ -1,9 +1,5 @@
 # Canva Apps SDK starter kit
 
-Welcome to the **Apps SDK starter kit** for Canva's app development platform. 🎉
-
-This repo contains everything you need to get an app up and running in a matter of minutes, including a boilerplate project and lots of examples. The complete documentation for the platform is at [canva.dev/docs/apps](https://www.canva.dev/docs/apps/).
-
 **Note:** The starter kit and documentation assumes some experience with TypeScript and React.
 
 ## Requirements
